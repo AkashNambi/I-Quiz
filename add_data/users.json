@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "5eb970738bc14c21a8a455ec"
+  },
+  "quizzes_set": [],
+  "fname": "nivetha",
+  "lname": "a",
+  "email": "nivethaarumugaraj@gmail.com",
+  "username": "nivetha",
+  "password": "$2a$12$fR68tj9k.FJTVEL52Mv.DOWHnVBizruiL1y/mw.UXadKxCpow.sS2",
+  "no_of_quiz": 0,
+  "total_score": 0,
+  "total_possible_score": 0,
+  "setter": false,
+  "attended_quiz": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb970b38bc14c21a8a455ed"
+  },
+  "quizzes_set": [
+    {
+      "$oid": "5eb97af6ea7b142258fa4e33"
+    },
+    {
+      "$oid": "5eb98528ea7b142258fa4e36"
+    },
+    {
+      "$oid": "5eb986c4ea7b142258fa4e37"
+    },
+    {
+      "$oid": "5eb98a87ea7b142258fa4e39"
+    }
+  ],
+  "fname": "manivizhi",
+  "lname": "a",
+  "email": "manivizhi@gmail.com",
+  "username": "manivizhi",
+  "password": "$2a$12$iYxDOrygU4KJM046ezfAre4Ac9FIqKMlwq3qAoA/4GyIFps9e6PN2",
+  "no_of_quiz": 9,
+  "total_score": 70,
+  "total_possible_score": 315,
+  "setter": true,
+  "attended_quiz": [
+    {
+      "quiz_id": {
+        "$oid": "5eb975f38bc14c21a8a455f1"
+      },
+      "time": {
+        "$date": "2020-05-11T15:58:48.700Z"
+      },
+      "status": true,
+      "total_possible_score": 35,
+      "total_score": 20
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eb97857ea7b142258fa4e31"
+      },
+      "time": {
+        "$date": "2020-05-11T16:08:37.843Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d980ce513942990132112"
+      },
+      "time": {
+        "$date": "2020-05-11T16:09:55.239Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d9882e513942990132116"
+      },
+      "time": {
+        "$date": "2020-05-11T16:10:05.933Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eaeedb3cc025025506cd27b"
+      },
+      "time": {
+        "$date": "2020-05-11T16:10:42.595Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eafcf34200e0123704ecafd"
+      },
+      "time": {
+        "$date": "2020-05-11T16:10:52.248Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eb97ef3ea7b142258fa4e34"
+      },
+      "time": {
+        "$date": "2020-05-11T16:36:23.050Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d97d8e513942990132111"
+      },
+      "time": {
+        "$date": "2020-05-11T16:42:15.915Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d9830e513942990132113"
+      },
+      "time": {
+        "$date": "2020-05-11T16:42:35.055Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 10
+    }
+  ],
+  "__v": 13
+},{
+  "_id": {
+    "$oid": "5eb970ed8bc14c21a8a455ee"
+  },
+  "quizzes_set": [
+    {
+      "$oid": "5eb975f38bc14c21a8a455f1"
+    },
+    {
+      "$oid": "5eb97857ea7b142258fa4e31"
+    },
+    {
+      "$oid": "5eb97ef3ea7b142258fa4e34"
+    }
+  ],
+  "fname": "dhanush",
+  "lname": "a",
+  "email": "adhanushram2000@gmail.com",
+  "username": "dhanush",
+  "password": "$2a$12$YXUoHu2mpCXgPHbFqy3wh.AatraxEtdxroB6JHNYl9wu4sBLqpNyq",
+  "no_of_quiz": 11,
+  "total_score": 110,
+  "total_possible_score": 370,
+  "setter": true,
+  "attended_quiz": [
+    {
+      "quiz_id": {
+        "$oid": "5e8d9830e513942990132113"
+      },
+      "time": {
+        "$date": "2020-05-11T15:36:58.545Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d97d8e513942990132111"
+      },
+      "time": {
+        "$date": "2020-05-11T15:37:29.242Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5e8d9882e513942990132116"
+      },
+      "time": {
+        "$date": "2020-05-11T15:38:01.903Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eaeedb3cc025025506cd27b"
+      },
+      "time": {
+        "$date": "2020-05-11T15:39:12.979Z"
+      },
+      "status": false
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eaeedb3cc025025506cd27a"
+      },
+      "time": {
+        "$date": "2020-05-11T15:39:25.720Z"
+      },
+      "status": false
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eaeedb3cc025025506cd281"
+      },
+      "time": {
+        "$date": "2020-05-11T15:39:59.338Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eaeedb3cc025025506cd282"
+      },
+      "time": {
+        "$date": "2020-05-11T15:40:22.351Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 30
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eb97af6ea7b142258fa4e33"
+      },
+      "time": {
+        "$date": "2020-05-11T16:20:07.826Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 0
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eb98528ea7b142258fa4e36"
+      },
+      "time": {
+        "$date": "2020-05-11T17:03:03.970Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 20
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eafcf34200e0123704ecafb"
+      },
+      "time": {
+        "$date": "2020-05-11T17:12:26.244Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eafcf34200e0123704ecafc"
+      },
+      "time": {
+        "$date": "2020-05-11T17:12:33.603Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eafcf34200e0123704ecafd"
+      },
+      "time": {
+        "$date": "2020-05-11T17:12:39.851Z"
+      },
+      "status": true,
+      "total_possible_score": 40,
+      "total_score": 20
+    },
+    {
+      "quiz_id": {
+        "$oid": "5eb98a87ea7b142258fa4e39"
+      },
+      "time": {
+        "$date": "2020-05-11T17:28:01.310Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 0
+    }
+  ],
+  "__v": 16
+},{
+  "_id": {
+    "$oid": "5eb98b83ea7b142258fa4e3a"
+  },
+  "quizzes_set": [],
+  "fname": "gowtham",
+  "lname": "raj",
+  "email": "raj@gmail.com",
+  "username": "gowtham",
+  "password": "$2a$12$DzsgvSQGnf4AHzJjjP7DSOaR2NSkflBa7FCZYnsjf/CEsClCt.o9m",
+  "no_of_quiz": 1,
+  "total_score": 10,
+  "total_possible_score": 30,
+  "setter": false,
+  "attended_quiz": [
+    {
+      "quiz_id": {
+        "$oid": "5eb97857ea7b142258fa4e31"
+      },
+      "time": {
+        "$date": "2020-05-11T17:30:25.775Z"
+      },
+      "status": true,
+      "total_possible_score": 30,
+      "total_score": 10
+    }
+  ],
+  "__v": 1
+}]
